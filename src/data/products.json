@@ -1,0 +1,114 @@
+{
+  "products" : [
+    {
+      "id": 1,
+      "name": "Jordan 1 Royal Blue",
+      "description": "Superfly.",
+      "keywords": [
+        "Blue",
+        "Retro",
+        "Jordan",
+        "Royal"
+      ],
+      "image": "https://stockx.imgix.net/Air-Jordan-1-Retro-Black-Blue-2001-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1555964970",
+      "sizes": [
+        "6M",
+        "8M"
+      ],
+      "price": 235.99
+    },
+    {
+      "id": 2,
+      "name": "Yeezy Boost 350 V2 Zebra",
+      "description": "For the Safari Animal in you.",
+      "keywords": [
+        "Zebra",
+        "Yeezy",
+        "Black",
+        "White"
+      ],
+      "image": "https://stockx-360.imgix.net/Adidas-Yeezy-Boost-350-V2-Zebra/Images/Adidas-Yeezy-Boost-350-V2-Zebra/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1538080256&w=1000",
+      "sizes": [
+        "8M",
+        "11M"
+      ],
+      "price": 345.99
+    },
+    {
+      "id": 3,
+      "name": "Air Fear of God 1 Light Bone",
+      "description": "To balance out all of the sinning you'll be doing in them.",
+      "keywords": [
+        "Fear",
+        "God",
+        "Grey",
+        "Nike"
+      ],
+      "image": "https://stockx-360.imgix.net/Nike-Air-Fear-Of-God-1-Light-Bone/Images/Nike-Air-Fear-Of-God-1-Light-Bone/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1543943377&w=1000",
+      "sizes": [
+        "6M",
+        "12M"
+      ],
+      "price": 450.99
+    },
+    {
+      "id": 4,
+      "name": "Jordan Retro 4 Bred",
+      "description": "Classics",
+      "keywords": [
+        "bred",
+        "retro",
+        "black",
+        "jordan"
+      ],
+      "image": "https://stockx-360.imgix.net/Air-Jordan-4-Retro-Bred-2019/Images/Air-Jordan-4-Retro-Bred-2019/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1555622524&w=1000",
+      "sizes": [
+        "10M",
+        "12M"
+      ],
+      "price": 250.00
+    },
+    {
+      "id": 5,
+      "name": "Light up Sketchers",
+      "description": "Very Rare",
+      "keywords": [
+        "light",
+        "sketchers",
+        "lit",
+        "rare"
+      ],
+      "image": "https://www.shoes.com/pi/skech/jb/skech712676_42929_jb.jpg",
+      "sizes": [
+        "10M",
+        "12M"
+      ],
+      "price": 1200.00
+    },
+    {
+      "id": 6,
+      "name": "Old Town Roads",
+      "description": "Riding on my horse, you can keep your Porsche.",
+      "keywords": [
+        "cowboy",
+        "boots",
+        "country",
+        "outlaw"
+      ],
+      "image": "https://www.tackroominc.com/images/magictoolbox_cache/8c95d73fec130487c102a73bf1ab42ce/2/3/23023/extra-thumb150x150/144135193/AriatBristol10019947WestB.jpg",
+      "sizes": [
+        "11M",
+        "12M"
+      ],
+      "price": 80.99
+    }
+
+
+  ]
+
+
+
+
+
+
+}

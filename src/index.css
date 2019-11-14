@@ -1,13 +1,54 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  font-family: sans-serif;
+  width: 100%;
+  background-color: lightgrey
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.product-listing {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 780px;
+}
+
+.product-listing .product-list-item {
+  padding: 10px 30px;
+  width: 200px;
+  color: black;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  align-self: auto;
+}
+
+.page-container {
+  width: 800px;
+  margin: 10px auto;
+  background-color: white;
+}
+
+.site-header {
+  color: grey;
+  font-family: cursive;
+
+}
+
+.page-title {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+  font-family: georgia;
+  background-color: lightgrey;
+  height: 80px;
+  padding-top: 40px;
+}
+
+.sneaker-title {
+  text-align: center;
 }
